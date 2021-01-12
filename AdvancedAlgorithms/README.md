@@ -1,6 +1,6 @@
 # تمرین ها
 1. [G-A04]
-    1. [Fibonacci Heaps] (https://aparat.com/v/WfZXp)
+    1. [The Naive String Matching] (https://github.com/javadkh76/javadkh76.github.io/blob/main/The%20Naive%20String%20Matching%20-%20Group%204_HD.mp4)
     1. [Heap Sort] (https://github.com/javadkh76/javadkh76.github.io/blob/main/Heap%20Sort%20-%20Group%204.mkv?raw=true)
     1. [Fibonacci Heaps] (https://javadkh76.github.io/fibonacci-heap/FibonacciHeap.html)
     
